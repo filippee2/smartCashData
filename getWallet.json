@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "walletId": 81277,
+            "displayName": "Spending",
+            "address": "SYdbGDUhycSsWviDcEF4iwX3MZowEzLjQX",
+            "qrCode": "https://qr.smartcash.cc/?address=SYdbGDUhycSsWviDcEF4iwX3MZowEzLjQX",
+            "balance": 0,
+            "totalSent": 0,
+            "totalReceived": 0,
+            "position": 1,
+            "isRewards": false,
+            "isVault": false,
+            "isScheduled": false,
+            "cardId": null,
+            "transactions": []
+        },
+        {
+            "walletId": 81278,
+            "displayName": "Smart Rewards",
+            "address": "SWBbW25iD26f5Y3QB3Km9SjAGLsRkf4hcN",
+            "qrCode": "https://qr.smartcash.cc/?address=SWBbW25iD26f5Y3QB3Km9SjAGLsRkf4hcN",
+            "balance": 0,
+            "totalSent": 0,
+            "totalReceived": 0,
+            "position": 2,
+            "isRewards": true,
+            "isVault": false,
+            "isScheduled": false,
+            "cardId": null,
+            "transactions": []
+        },
+        {
+            "walletId": 81279,
+            "displayName": "Smart Rewards 2",
+            "address": "SSNtsiTardV1DeMHXzHqMJvrHwAMcm5Kva",
+            "qrCode": "https://qr.smartcash.cc/?address=SSNtsiTardV1DeMHXzHqMJvrHwAMcm5Kva",
+            "balance": 0,
+            "totalSent": 0,
+            "totalReceived": 0,
+            "position": 3,
+            "isRewards": true,
+            "isVault": false,
+            "isScheduled": false,
+            "cardId": null,
+            "transactions": []
+        }
+    ],
+    "error": null,
+    "status": "OK",
+    "isValid": true
+}

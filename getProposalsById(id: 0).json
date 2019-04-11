@@ -1,0 +1,33 @@
+{
+    "status": "OK",
+    "result": {
+        "propposal": {
+            "proposalId": 37,
+            "proposalKey": "cb15c0d4-f277-41a5-9ed6-5971e6dc34d8",
+            "title": "Proper classification of SMART Holders",
+            "url": "Proper-classification-of-SMART-Holders",
+            "summary": "SMART Holders, or people with a stake in SMART shall be known as SMARTIES. Either uppercase or lowercase, or proper case (Smarties) are acceptable.",
+            "description": "Finding a name to address ourselves is hard.\n\nThis will make it easier",
+            "owner": "kymm396",
+            "amountSmart": 395.70102280672097,
+            "amountBtc": 0.0010683927615781467,
+            "amountUSD": 5.5771,
+            "installment": 1,
+            "votingDeadline": "2017-08-19T07:00:00",
+            "createdDate": "2017-08-05T07:00:00",
+            "status": "Completed",
+            "voteYes": 2038157.9799804688,
+            "voteNo": 1086111.3552441406,
+            "voteAbstain": 10.0,
+            "percentYes": 65.236099634283889,
+            "percentNo": 34.763580291903004,
+            "percentAbstain": 0.00032007381309523923,
+            "currentStatus": "Yes",
+            "categoryTitle": "Creativity",
+            "categoryColor": "#8FBC8F"
+        },
+        "milestones": [],
+        "comments": [],
+        "votes": []
+    }
+}

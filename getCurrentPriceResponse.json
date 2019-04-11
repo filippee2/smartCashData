@@ -1,0 +1,19 @@
+[
+    {
+        "id": "smartcash",
+        "name": "SmartCash",
+        "symbol": "SMART",
+        "rank": "194",
+        "price_usd": "0.0141241069",
+        "price_btc": "0.00000271",
+        "24h_volume_usd": "803014.380047",
+        "market_cap_usd": "19969500.0",
+        "available_supply": "1413859298.0",
+        "total_supply": "2014903577.0",
+        "max_supply": "5000000000.0",
+        "percent_change_1h": "-0.15",
+        "percent_change_24h": "-0.12",
+        "percent_change_7d": "3.71",
+        "last_updated": "1554830164"
+    }
+]
